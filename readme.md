@@ -18,7 +18,7 @@ A beautiful and modern web application for detecting spam messages using Machine
 ## 🚀 Live Demo
 
 - **Frontend**: [Coming Soon]
-- **Backend API**: https://spam-detection-6lm9.onrender.com
+- **Backend API**: https://spam-detection-e1hd.onrender.com/
 
 ## 🛠️ Tech Stack
 
