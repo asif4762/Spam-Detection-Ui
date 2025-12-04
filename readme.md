@@ -57,7 +57,7 @@ npm install
 
 Open `src/App.jsx` and update the API URL:
 ```javascript
-const API_URL = 'https://spam-detection-6lm9.onrender.com';
+const API_URL = 'https://spam-detection-e1hd.onrender.com/';
 ```
 
 4. **Run development server**
