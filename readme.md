@@ -100,7 +100,7 @@ spam-detector-frontend/
 
 ### Base URL
 ```
-https://spam-detection-6lm9.onrender.com
+https://spam-detection-e1hd.onrender.com/
 ```
 
 ### Endpoints
